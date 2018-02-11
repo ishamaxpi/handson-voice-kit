@@ -2,7 +2,7 @@
 google voice kit Hands-On
 # Make your Raspberry Pi speak with Google Voice Kit  
 
-![](https://statics3.seeedstudio.com/seeed/file/2017-10/bazaar597923_aiyk1.jpg)  
+ 
 
 >_"Our goal with AIY Projects has always been to make artificial intelligence open and accessible 
 for makers of all ages,"_- Bill Rutledge, director of AIY Projects at Google
@@ -24,7 +24,7 @@ In addition with the Google Voice Kit Raspberry Pi 3,SD card,screwdriver,tape is
 ## Set up your Hardware
 * Place the two standoffs into the two yellow (near the edge of Raspberry Pi 3).    
 _NOTE: Make sure that they are fixed completely into place._    
-       ![rpi1](https://user-images.githubusercontent.com/35935951/35770502-4628645c-0942-11e8-8aa2-bc96b72f6693.png)   ![rpi2 - copy](https://user-images.githubusercontent.com/35935951/35770431-4c69bf4c-0941-11e8-8fca-603717e0eccb.png)  
+       ![raspberry pi 3 board](images/raspberry pi3.png)   ![rpi2 - copy](https://user-images.githubusercontent.com/35935951/35770431-4c69bf4c-0941-11e8-8fca-603717e0eccb.png)  
 
 * Take your Voice HAT accessory board and attach it to the Raspberry Pi 3 box header. Voice HAT should be placed such that I/O pins of Raspberry Pi 3 as well as that of Voice HAT line up with each other. Gently push the Voice HAT and snap them together.   
  ![pic3](https://user-images.githubusercontent.com/35935951/35770508-4c226fa6-0942-11e8-95ba-4e659982e582.png)   ![pic4](https://user-images.githubusercontent.com/35935951/35770457-9c9df262-0941-11e8-9ed5-bf64eee6f8ff.png)  
